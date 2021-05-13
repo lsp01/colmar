@@ -219,6 +219,12 @@ a:hover {
     filter: drop-shadow(1px 1px 4px grey);
 }
 
+.course-card:hover {
+    background: var(--bg-2);
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
 .course-card-img img {
     width: 100%;
     height: auto;
