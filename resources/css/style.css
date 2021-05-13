@@ -89,6 +89,7 @@ button {
 button:hover {
     background: var(--hoverlink);
     transition: all 0.4s ease-in-out;
+    cursor: pointer;
 }
 
 a {
